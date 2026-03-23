@@ -1,0 +1,5 @@
+This is the tenth document that we are writing in this file directory
+
+This is more about enhanced versions of GIT Ecosystem
+
+Here we need to provide more informations and clarity about the code that we are writing
